@@ -1,0 +1,11 @@
+COVID-19 Dataset Analysis – Insights
+
+1. The top 10 countries recorded significantly higher COVID-19 cases compared to other countries, indicating that the pandemic affected some regions much more severely.
+
+2. The line chart for Pakistan shows how COVID-19 cases increased over time, with noticeable waves during different periods of the pandemic.
+
+3. There is a positive relationship between total cases and total deaths. Countries with higher case counts generally also reported higher death counts.
+
+4. Cleaning the dataset by handling missing values, removing duplicates, and converting the date column ensured more accurate analysis and visualizations.
+
+5. Data visualization made it easier to identify trends, compare countries, and understand the overall impact of COVID-19 across different regions.
